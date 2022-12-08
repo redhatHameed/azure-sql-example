@@ -7,5 +7,5 @@ spec:
   server:  sqlserver-sample-777
 
   # this IP range enables Azure Service access
-  startipaddress: 098.116.242.15
-  endipaddress: 98.116.242.15
+  startipaddress: 0.0.0.0
+  endipaddress: 0.0.0.0
